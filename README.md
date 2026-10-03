@@ -8,25 +8,9 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student interested in Python and Data Science.
-
-I know Python and currently I'm working on advanced Python topics.
-
-I have studied Data Mining, Machine Learning, and Deep Learning, and I'm currently improving my knowledge in these areas.
+I'm a Computer Engineering student working with Python, Data Mining, Machine Learning, and Deep Learning.
 
 I work with NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
-
----
-
-## 🔭 What I'm Working On
-
-* Improving my Python skills
-* Working on Data Mining projects
-* Practicing Data Analysis
-* Improving my Machine Learning knowledge
-* Learning and practicing Deep Learning
-* Working with real datasets
-* Improving my Git and GitHub skills
 
 ---
 
@@ -57,10 +41,3 @@ I work with NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visuali
 * Deep Learning
 * Data Analysis
 * Data Visualization
-* Git & GitHub
-
----
-
-## 🎯 Goal
-
-To improve my programming and data science skills by learning, practicing, and working on real projects.
