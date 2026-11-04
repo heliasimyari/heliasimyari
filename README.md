@@ -77,20 +77,6 @@ I believe in learning step by step, practicing consistently, and improving throu
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Projects & Practice
-
-| Project | Description | Technologies |
-|---|---|---|
-| Online Retail Analysis | Customer behavior and purchasing pattern analysis | Python, Pandas |
-| Customer Churn Prediction | Exploring customer behavior and predicting potential churn | Python, Scikit-learn |
-| Data Analysis Experiments | Data preprocessing, visualization and exploratory analysis | NumPy, Pandas, Matplotlib |
-
-*More projects and experiments will be added as I continue learning.*
-
----
-
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 ## 🌱 Currently Learning
