@@ -1,43 +1,146 @@
-<h1 align="center">👩🏻‍💻 HELIA SIMYARI</h1>
 
-<p align="center">
-  Computer Engineering Student | Python Developer
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Helia+Simyari+%F0%9F%91%8B;Computer+Engineering+Student;Python+%7C+Data+Science+%7C+AI" alt="Typing SVG" />
+
+<br/>
+
+### Computer Engineering Student
+**Interested in Python, Data Science & Artificial Intelligence**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Continuous%20Learning-0B1726?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Location-Germany-0B1726?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF"/>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👩‍💻 About Me
+
+Hi! I'm **Helia Simyari**, an undergraduate Computer Engineering student interested in programming, data analysis, data mining, and artificial intelligence.
+
+- 🐍 Building my programming skills with **Python**.
+- 📊 Exploring data analysis and data mining.
+- 🧠 Learning machine learning algorithms and model building.
+- 🔬 Practicing through personal projects and experiments.
+- 🚀 Working toward my long-term goal of becoming an **AI Engineer**.
+
+I believe in learning step by step, practicing consistently, and improving through real projects.
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Technologies & Tools
+
+### Programming Language
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</p>
+
+### Python Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45" alt="Tools"/>
 </p>
 
 ---
 
-## 👋 About Me
+<!-- ===================== KNOWLEDGE ===================== -->
 
-I'm a Computer Engineering student working with Python, Data Mining, Machine Learning, and Deep Learning.
+## 📚 Areas I'm Familiar With
 
-I work with NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-</p>
-
-<p align="center">
-  Python • NumPy • Pandas • Matplotlib • Seaborn • Git • GitHub • Linux • VS Code
-</p>
+- Python Programming
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Data Mining Concepts
+- Machine Learning Algorithms
+- Basic Predictive Modeling
 
 ---
 
-## 📚 Currently Learning
+<!-- ===================== PROJECTS ===================== -->
 
-* Advanced Python
-* Data Mining
-* Machine Learning
-* Deep Learning
-* Data Analysis
-* Data Visualization
+## 🚀 Projects & Practice
+
+| Project | Description | Technologies |
+|---|---|---|
+| Online Retail Analysis | Customer behavior and purchasing pattern analysis | Python, Pandas |
+| Customer Churn Prediction | Exploring customer behavior and predicting potential churn | Python, Scikit-learn |
+| Data Analysis Experiments | Data preprocessing, visualization and exploratory analysis | NumPy, Pandas, Matplotlib |
+
+*More projects and experiments will be added as I continue learning.*
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B1726?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0B1726?style=for-the-badge&logo=pytorch&logoColor=2DD4BF"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-0B1726?style=for-the-badge&logo=tensorflow&logoColor=67E8F9"/>
+</p>
+
+My current focus is strengthening my foundations in Python, data science, and machine learning while gradually exploring deep learning and neural networks.
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=heliasimyari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1726&title_color=38BDF8&icon_color=2DD4BF&text_color=CBD5E1" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliasimyari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1726&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=heliasimyari&theme=tokyonight&hide_border=true&background=0B1726&ring=38BDF8&fire=2DD4BF&currStreakLabel=67E8F9" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/heliasimyari/heliasimyari/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### ✨ Learning step by step, building through practice.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1726,50:0E7490,100:38BDF8&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
