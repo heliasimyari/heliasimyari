@@ -91,24 +91,6 @@ My current focus is strengthening my foundations in Python, data science, and ma
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=heliasimyari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1726&title_color=38BDF8&icon_color=2DD4BF&text_color=CBD5E1" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliasimyari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1726&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=heliasimyari&theme=tokyonight&hide_border=true&background=0B1726&ring=38BDF8&fire=2DD4BF&currStreakLabel=67E8F9" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 ## 🐍 Contribution Graph
