@@ -13,7 +13,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-0B1726?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Location-Germany-0B1726?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF"/>
+
 
 </div>
 
